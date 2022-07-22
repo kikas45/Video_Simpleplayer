@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/HP/.gradle/caches/transforms-3/ed582f617701c62f692ba8852d6b051d/transformed/jetified-exoplayer-ui-2.14.1/res/drawable-anydpi-v21/exo_ic_rewind.xml" value="0.1" />
+        <entry key="..\:/Users/HP/.gradle/caches/transforms-3/ed582f617701c62f692ba8852d6b051d/transformed/jetified-exoplayer-ui-2.14.1/res/drawable-anydpi-v21/exo_icon_pause.xml" value="0.20989583333333334" />
+        <entry key="..\:/Users/HP/.gradle/caches/transforms-3/ed582f617701c62f692ba8852d6b051d/transformed/jetified-exoplayer-ui-2.14.1/res/layout/exo_player_view.xml" value="0.14628623188405798" />
+        <entry key="..\:/Users/HP/Desktop/Andriod Apps/VideoSimplePlayer/app/src/main/res/drawable/bottom_sheet_bg.xml" value="0.21743589743589745" />
+        <entry key="..\:/Users/HP/Desktop/Andriod Apps/VideoSimplePlayer/app/src/main/res/drawable/circle.xml" value="0.1715" />
+        <entry key="..\:/Users/HP/Desktop/Andriod Apps/VideoSimplePlayer/app/src/main/res/drawable/ic_arrow_back.xml" value="0.125" />
+        <entry key="..\:/Users/HP/Desktop/Andriod Apps/VideoSimplePlayer/app/src/main/res/drawable/ic_arrow_forward.xml" value="0.16875" />
+        <entry key="..\:/Users/HP/Desktop/Andriod Apps/VideoSimplePlayer/app/src/main/res/drawable/ic_delete.xml" value="0.21743589743589745" />
+        <entry key="..\:/Users/HP/Desktop/Andriod Apps/VideoSimplePlayer/app/src/main/res/drawable/ic_lock_open.xml" value="0.17685185185185184" />
+        <entry key="..\:/Users/HP/Desktop/Andriod Apps/VideoSimplePlayer/app/src/main/res/drawable/ic_more.xml" value="0.15260416666666668" />
+        <entry key="..\:/Users/HP/Desktop/Andriod Apps/VideoSimplePlayer/app/src/main/res/drawable/ic_more_weigh.xml" value="0.20989583333333334" />
+        <entry key="..\:/Users/HP/Desktop/Andriod Apps/VideoSimplePlayer/app/src/main/res/drawable/ic_properties.xml" value="0.21743589743589745" />
+        <entry key="..\:/Users/HP/Desktop/Andriod Apps/VideoSimplePlayer/app/src/main/res/drawable/ic_rate_us.xml" value="0.11614583333333334" />
+        <entry key="..\:/Users/HP/Desktop/Andriod Apps/VideoSimplePlayer/app/src/main/res/drawable/ic_refresh.xml" value="0.20989583333333334" />
+        <entry key="..\:/Users/HP/Desktop/Andriod Apps/VideoSimplePlayer/app/src/main/res/drawable/ic_round_arrow_back.xml" value="0.11614583333333334" />
+        <entry key="..\:/Users/HP/Desktop/Andriod Apps/VideoSimplePlayer/app/src/main/res/drawable/ic_round_arrow_forward.xml" value="0.11614583333333334" />
+        <entry key="..\:/Users/HP/Desktop/Andriod Apps/VideoSimplePlayer/app/src/main/res/drawable/ic_round_fit.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/HP/Desktop/Andriod Apps/VideoSimplePlayer/app/src/main/res/drawable/ic_round_forward.xml" value="0.11614583333333334" />
+        <entry key="..\:/Users/HP/Desktop/Andriod Apps/VideoSimplePlayer/app/src/main/res/drawable/ic_round_lock.xml" value="0.20989583333333334" />
+        <entry key="..\:/Users/HP/Desktop/Andriod Apps/VideoSimplePlayer/app/src/main/res/drawable/ic_round_pause.xml" value="0.20989583333333334" />
+        <entry key="..\:/Users/HP/Desktop/Andriod Apps/VideoSimplePlayer/app/src/main/res/drawable/ic_round_play.xml" value="0.20989583333333334" />
+        <entry key="..\:/Users/HP/Desktop/Andriod Apps/VideoSimplePlayer/app/src/main/res/drawable/ic_round_playlist_play.xml" value="0.20989583333333334" />
+        <entry key="..\:/Users/HP/Desktop/Andriod Apps/VideoSimplePlayer/app/src/main/res/drawable/ic_round_replay.xml" value="0.11614583333333334" />
+        <entry key="..\:/Users/HP/Desktop/Andriod Apps/VideoSimplePlayer/app/src/main/res/drawable/ic_round_skip_next.xml" value="0.11614583333333334" />
+        <entry key="..\:/Users/HP/Desktop/Andriod Apps/VideoSimplePlayer/app/src/main/res/drawable/ic_round_stop.xml" value="0.17685185185185184" />
+        <entry key="..\:/Users/HP/Desktop/Andriod Apps/VideoSimplePlayer/app/src/main/res/drawable/ic_scrubble.xml" value="0.17685185185185184" />
+        <entry key="..\:/Users/HP/Desktop/Andriod Apps/VideoSimplePlayer/app/src/main/res/drawable/ic_share.xml" value="0.21743589743589745" />
+        <entry key="..\:/Users/HP/Desktop/Andriod Apps/VideoSimplePlayer/app/src/main/res/drawable/ic_shared.xml" value="0.21743589743589745" />
+        <entry key="..\:/Users/HP/Desktop/Andriod Apps/VideoSimplePlayer/app/src/main/res/drawable/ic_skip_previous.xml" value="0.11614583333333334" />
+        <entry key="..\:/Users/HP/Desktop/Andriod Apps/VideoSimplePlayer/app/src/main/res/drawable/ripple_circle.xml" value="0.1715" />
+        <entry key="..\:/Users/HP/Desktop/Andriod Apps/VideoSimplePlayer/app/src/main/res/drawable/splash_backrgoud.xml" value="0.14" />
+        <entry key="..\:/Users/HP/Desktop/Andriod Apps/VideoSimplePlayer/app/src/main/res/layout/activity_allow_acess.xml" value="0.1331521739130435" />
+        <entry key="..\:/Users/HP/Desktop/Andriod Apps/VideoSimplePlayer/app/src/main/res/layout/activity_main.xml" value="0.12635869565217392" />
+        <entry key="..\:/Users/HP/Desktop/Andriod Apps/VideoSimplePlayer/app/src/main/res/layout/activity_splash.xml" value="0.10182370820668693" />
+        <entry key="..\:/Users/HP/Desktop/Andriod Apps/VideoSimplePlayer/app/src/main/res/layout/activity_video_files.xml" value="0.13854166666666667" />
+        <entry key="..\:/Users/HP/Desktop/Andriod Apps/VideoSimplePlayer/app/src/main/res/layout/activity_video_player.xml" value="0.18" />
+        <entry key="..\:/Users/HP/Desktop/Andriod Apps/VideoSimplePlayer/app/src/main/res/layout/ck_activity_for_gg.xml" value="0.1598731884057971" />
+        <entry key="..\:/Users/HP/Desktop/Andriod Apps/VideoSimplePlayer/app/src/main/res/layout/ck_custom_controller.xml" value="0.25" />
+        <entry key="..\:/Users/HP/Desktop/Andriod Apps/VideoSimplePlayer/app/src/main/res/layout/custom_playback_view.xml" value="0.18" />
+        <entry key="..\:/Users/HP/Desktop/Andriod Apps/VideoSimplePlayer/app/src/main/res/layout/folder_item.xml" value="0.14221014492753623" />
+        <entry key="..\:/Users/HP/Desktop/Andriod Apps/VideoSimplePlayer/app/src/main/res/layout/gg_custome_controller.xml" value="0.15" />
+        <entry key="..\:/Users/HP/Desktop/Andriod Apps/VideoSimplePlayer/app/src/main/res/layout/icons_layout.xml" value="0.12409420289855072" />
+        <entry key="..\:/Users/HP/Desktop/Andriod Apps/VideoSimplePlayer/app/src/main/res/layout/video_bs_layout.xml" value="0.18" />
+        <entry key="..\:/Users/HP/Desktop/Andriod Apps/VideoSimplePlayer/app/src/main/res/layout/video_file_items.xml" value="0.13645833333333332" />
+        <entry key="..\:/Users/HP/Desktop/Andriod Apps/VideoSimplePlayer/app/src/main/res/menu/menu.xml" value="0.14427083333333332" />
+        <entry key="..\:/Users/HP/Desktop/Andriod Apps/VideoSimplePlayer/app/src/main/res/menu/video_menu.xml" value="0.159375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
